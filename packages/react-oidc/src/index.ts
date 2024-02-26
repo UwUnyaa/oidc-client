@@ -1,12 +1,8 @@
-export { useOidcFetch, withOidcFetch } from './FetchToken.js';
-export { OidcProvider } from './OidcProvider.js';
-export { OidcSecure, withOidcSecure } from './OidcSecure.js';
-export { useOidc, useOidcAccessToken, useOidcIdToken } from './ReactOidc.js';
-export { OidcUserStatus, useOidcUser } from './User.js';
-export type {
-  AuthorityConfiguration,
-  Fetch,
-  OidcConfiguration,
-  StringMap,
-} from '@axa-fr/oidc-client';
-export { type OidcUserInfo, TokenRenewMode, OidcClient } from '@axa-fr/oidc-client';
+export * from './FetchToken.js';
+export * from './OidcProvider.js';
+export * from './OidcSecure.js';
+export * from './ReactOidc.js';
+export * from './User.js';
+export type * from '@axa-fr/oidc-client';
+export * from '@axa-fr/oidc-client';
+export * from './core/routes/withRouter';
