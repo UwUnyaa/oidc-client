@@ -1,7 +1,7 @@
 {
-  "name": "@axafr/react-oidc-monorepo",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@UwUnyaa/react-oidc",
+  "private": false,
+  "version": "0.0.4",
   "description": "Root package for the project",
   "license": "MIT",
   "workspaces": [
@@ -14,7 +14,7 @@
     "oidc"
   ],
   "repository": {
-    "url": "https://github.com/AxaGuilDEv/react-oidc.git",
+    "url": "https://github.com/UwUnyaa/oidc-client.git",
     "type": "git"
   },
   "scripts": {
