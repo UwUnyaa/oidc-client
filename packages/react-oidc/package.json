@@ -1,5 +1,5 @@
 {
-  "name": "@axa-fr/react-oidc",
+  "name": "@uwunyaa/react-oidc",
   "version": "7.19.0",
   "private": false,
   "type": "module",
@@ -9,7 +9,7 @@
   "description": "OpenID Connect & OAuth authentication using react",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AxaFrance/oidc-client.git"
+    "url": "https://github.com/UWUNYAA/oidc-client.git"
   },
   "files": [
     "dist",
@@ -29,7 +29,7 @@
     "next"
   ],
   "scripts": {
-    "copy-service-worker": "cpy ./node_modules/@axa-fr/oidc-client-service-worker/dist/* ./dist --flat",
+    "copy-service-worker": "cpy ./node_modules/@uwunyaa/oidc-client-service-worker/dist/* ./dist --flat",
     "start": "pnpm run copy-service-worker && vite",
     "build": "vite build",
     "serve": "vite preview",
@@ -40,8 +40,8 @@
     "lint": "eslint src"
   },
   "dependencies": {
-    "@axa-fr/oidc-client-service-worker": "workspace:*",
-    "@axa-fr/oidc-client": "workspace:*"
+    "@uwunyaa/oidc-client-service-worker": "workspace:*",
+    "@uwunyaa/oidc-client": "workspace:*"
   },
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0"

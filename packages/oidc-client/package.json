@@ -1,5 +1,5 @@
 {
-  "name": "@axa-fr/oidc-client",
+  "name": "@uwunyaa/oidc-client",
   "version": "7.19.0",
   "private": false,
   "type": "module",
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AxaFrance/oidc-client.git"
+    "url": "https://github.com/uwunyaa/oidc-client.git"
   },
   "dependencies": {
-    "@axa-fr/oidc-client-service-worker": "workspace:*"
+    "@uwunyaa/oidc-client-service-worker": "workspace:*"
   },
   "devDependencies": {
     "@testing-library/dom": "9.3.4",

@@ -1,4 +1,4 @@
-import { Fetch, OidcClient } from '@axa-fr/oidc-client';
+import { Fetch, OidcClient } from '@uwunyaa/oidc-client';
 import { useCallback } from 'react';
 
 export interface ComponentWithOidcFetchProps {

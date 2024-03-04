@@ -1,4 +1,4 @@
-import {getPath, ILOidcLocation} from '@axa-fr/oidc-client';
+import {getPath, ILOidcLocation} from '@uwunyaa/oidc-client';
 import React, { ComponentType, FC, PropsWithChildren, useEffect, useState } from 'react';
 
 import CallbackComponent from '../default-component/Callback.component.js';

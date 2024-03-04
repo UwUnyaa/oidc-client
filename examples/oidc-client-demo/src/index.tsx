@@ -1,4 +1,4 @@
-import {OidcClient} from "@axa-fr/oidc-client";
+import {OidcClient} from "@uwunyaa/oidc-client";
 
 class Router
 {    getCustomHistory(){

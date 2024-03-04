@@ -1,4 +1,4 @@
-import { OidcClient } from '@axa-fr/oidc-client';
+import { OidcClient } from '@uwunyaa/oidc-client';
 import { ComponentType, useEffect, useState } from 'react';
 
 import { getCustomHistory } from '../routes/withRouter.js';

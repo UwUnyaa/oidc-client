@@ -1,4 +1,4 @@
-import { StringMap, OidcClient } from '@axa-fr/oidc-client';
+import { StringMap, OidcClient } from '@uwunyaa/oidc-client';
 import { FC, PropsWithChildren, useEffect } from 'react';
 
 export type OidcSecureProps = {

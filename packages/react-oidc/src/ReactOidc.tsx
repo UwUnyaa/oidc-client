@@ -1,6 +1,6 @@
-import { StringMap, OidcClient } from '@axa-fr/oidc-client';
+import { StringMap, OidcClient } from '@uwunyaa/oidc-client';
 import { useEffect, useState } from 'react';
-import {Tokens} from "@axa-fr/oidc-client/dist/parseTokens";
+import {Tokens} from "@uwunyaa/oidc-client/dist/parseTokens";
 
 const defaultConfigurationName = 'default';
 

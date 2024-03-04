@@ -1,4 +1,4 @@
-import { type OidcUserInfo, OidcClient } from '@axa-fr/oidc-client';
+import { type OidcUserInfo, OidcClient } from '@uwunyaa/oidc-client';
 import { useEffect, useState } from 'react';
 
 export enum OidcUserStatus {

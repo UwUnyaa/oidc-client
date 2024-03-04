@@ -1,4 +1,4 @@
-import {Fetch, getFetchDefault, OidcConfiguration, OidcClient, ILOidcLocation, OidcLocation} from '@axa-fr/oidc-client';
+import {Fetch, getFetchDefault, OidcConfiguration, OidcClient, ILOidcLocation, OidcLocation} from '@uwunyaa/oidc-client';
 import { ComponentType, FC, PropsWithChildren, useEffect, useState } from 'react';
 
 import AuthenticatingError from './core/default-component/AuthenticateError.component.js';

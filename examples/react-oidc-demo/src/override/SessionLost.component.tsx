@@ -1,4 +1,4 @@
-import { useOidc } from '@axa-fr/react-oidc';
+import { useOidc } from '@uwunyaa/react-oidc';
 import { ComponentType } from 'react';
 
 import { style } from './style.js';

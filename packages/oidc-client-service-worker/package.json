@@ -1,5 +1,5 @@
 {
-  "name": "@axa-fr/oidc-client-service-worker",
+  "name": "@uwunyaa/oidc-client-service-worker",
   "version": "7.19.0",
   "type": "module",
   "private": false,
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AxaFrance/oidc-client.git"
+    "url": "https://github.com/uwunyaa/oidc-client.git"
   },
   "scripts": {
     "copy": "cpy --flat ./src/OidcTrustedDomains.js ./dist/",
